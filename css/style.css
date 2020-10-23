@@ -1,0 +1,13 @@
+:root {
+    --primary-light: rgb(173, 126, 112);
+    --primary-dark: rgb(49, 25, 17);
+    --dark: rgb(36, 14, 6);
+    --light: #f5e7e2;
+    --shadow: 0 1px 5px rgb(36, 14, 6);  
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
